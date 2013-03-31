@@ -1,0 +1,1 @@
+/home/kaladin/dwm/config.h
